@@ -7,6 +7,6 @@ package com.trainee.common;
  */
 public class Common {
 	//百度API——访问应用（AK）
-	public static final String BAIDUAK = "uzUpuke5IYuzoqGWSEKz8wbnkjic3Pm1";
-	public static final String BAIDUSK = "NwLbQ6Nb6TwthHQXhZlFZnS2RHldjstE";
+	public static final String BAIDUAK = "";
+	public static final String BAIDUSK = "";
 }
